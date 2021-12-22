@@ -1,2 +1,3 @@
 Esta es mi historia, la de Rodrigo Rojas y esta aprendiendo a usar git.
 Soy de bolivia
+Le gustan mucho los videojuegos pero ultimamente no ha jugado muchos
