@@ -1,1 +1,2 @@
-Esta es mi historia, la de Rodrigo Rojas
+Esta es mi historia, la de Rodrigo Rojas y esta aprendiendo a usar git.
+Soy de bolivia
