@@ -2,4 +2,4 @@ Esta es mi historia, la de Rodrigo Rojas y esta aprendiendo a usar git.
 Soy de la paz, bolivia
 Le gustan mucho los videojuegos pero ultimamente no ha jugado muchos
 
-Hoy es un estudiante de Univalle
+Hoy es un estudiante de ingenieria de sistemas de Univalle
