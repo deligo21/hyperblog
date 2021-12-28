@@ -2,12 +2,9 @@ Esta es mi historia, la de Rodrigo Rojas
 
 Mañana nos enfocaremos en su vida estudiantil
 
-<<<<<<< HEAD
 Master 1
 
 Master 2
-=======
 Experimento 1
 
 Master 1
->>>>>>> 3dcd46e (Experimento 1 en historia)
