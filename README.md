@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-# Hyperblog
-Blog para el curso de Git y Github de Platzi
-=======
-## hyperblog
+## Hyperblog 💙
 <p align="center">Blog para el curso de Git y Github de Platzi</p>
->>>>>>> cac4dee9cccb39b5fb8259adbe0c0f6008eede52
+
+>Este curso me enseño varias cosas acerca de Git y GitHub, aunque la verdad si es un poco pesado
+
+## Algunas de las cosas que pude aprender son
+* Todos los comandos de Git
+* El flujo de trabajo en GitHub 
+* Buenas practicas
+
